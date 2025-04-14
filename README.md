@@ -1,4 +1,4 @@
-# 🎯 Titanic Survival Prediction
+# 🎯 Titanic Survival Prediction (acc 78%)
 
 This project is a solution to the classic [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic) challenge on Kaggle. The goal is to predict which passengers survived the Titanic shipwreck using features like age, gender, passenger class, and more.
 
